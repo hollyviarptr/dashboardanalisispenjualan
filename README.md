@@ -1,5 +1,6 @@
 # dashboardanalisispenjualan
 Dashboard Interaktif Analisa Data Penjualan Bahan
 
-![My Image](dashboard 1.jpg)
+![My Image](https://github.com/hollyviarptr/dashboardanalisispenjualan/blob/main/dashboard%201.jpg)
+
 
